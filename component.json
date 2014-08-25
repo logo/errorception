@@ -3,7 +3,7 @@
   "name": "errorception",
   "repo": "logo/errorception",
   "description": "The Errorception logo.",
-  "version": "0.0.2",
+  "version": "0.2.0",
   "license": "MIT",
   "styles": [
     "style.css"
